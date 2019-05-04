@@ -1,0 +1,188 @@
+{
+
+    "Boutiques": [{
+            "link": "https://www.trendyol.com/trendyolmilla---woman/butikdetay/312908/kadin",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312908/tj2u1umt_1_new.jpg",
+            "countdown": false,
+            "category": "Kadın"
+        }, {
+            "link": "https://www.trendyol.com/pierre-cardin---canta-koleksiyonu/butikdetay/312231/kadin",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312231/ul2vd00w_0_new.jpg",
+            "countdown": "6.05.2019 05:00:00",
+            "category": "Kadın"
+        }, {
+            "link": "https://www.trendyol.com/hafta-sonu-firsatlari---kadin-tekstil/butikdetay/313385/kadin",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313385/cjywtb0r_0_new.jpg",
+            "countdown": false,
+            "category": "Kadın"
+        }, {
+            "link": "https://www.trendyol.com/bambi---yeni-sezon/butikdetay/312994/kadin",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312994/srjlojlc_0_new.jpg",
+            "countdown": "6.05.2019 05:30:00",
+            "category": "Kadın"
+        },
+        {
+            "link": "https://www.trendyol.com/u-s--polo-assn----erkek-tekstil/butikdetay/313421/erkek",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313421/312bzmzk_0_new.jpg",
+            "countdown": "6.05.2019 05:45:00",
+            "category": "Erkek"
+        }, {
+            "link": "https://www.trendyol.com/trendyol-man---yeni-koleksiyon/butikdetay/312894/erkek",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312894/3htgkuuc_2_new.jpg",
+            "countdown": false,
+            "category": "Erkek"
+        }, {
+            "link": "https://www.trendyol.com/ayin-cok-satanlari---elektronik/butikdetay/313291/erkek",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313291/0z5nkytd_0_new.jpg",
+            "countdown": "6.05.2019 18:00:00",
+            "category": "Erkek"
+        }, {
+            "link": "https://www.trendyol.com/lc-waikiki---yetiskin--cocuk--ev/butikdetay/309026/erkek",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/309026/nups30cr_2_new.jpg",
+            "countdown": false,
+            "category": "Erkek"
+        }, {
+            "link": "https://www.trendyol.com/lc-waikiki---yetiskin--cocuk--ev/butikdetay/309026/cocuk",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/309026/owr2hkh1_3_new.jpg",
+            "countdown": false,
+            "category": "Çocuk"
+        }, {
+            "link": "https://www.trendyol.com/bebegim-icin-her-sey/butikdetay/310145/cocuk",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/310145/5symxbly_0_new.jpg",
+            "countdown": false,
+            "category": "Çocuk"
+        }, {
+            "link": "https://www.trendyol.com/bebek-bezi-firsatlari/butikdetay/313406/cocuk",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313406/nlyetjcj_0_new.jpg",
+            "countdown": false,
+            "category": "Çocuk"
+        }, {
+            "link": "https://www.trendyol.com/denokids--mushi---cocuk-ve-bebek-koleksiyonu/butikdetay/313038/cocuk",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313038/hc0qouey_0_new.jpg",
+            "countdown": false,
+            "category": "Çocuk"
+        }, {
+            "link": "https://www.trendyol.com/pierre-cardin---canta-koleksiyonu/butikdetay/312231/ayakkabi--canta",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312231/ul2vd00w_0_new.jpg",
+            "countdown": "6.05.2019 05:00:00",
+            "category": "Ayakkabı & Çanta"
+        }, {
+            "link": "https://www.trendyol.com/soho-exclusive--soho-men---yeni-sezon/butikdetay/313272/ayakkabi--canta",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313272/kofje0nr_0_new.jpg",
+            "countdown": "6.05.2019 05:00:00",
+            "category": "Ayakkabı & Çanta"
+        }, {
+            "link": "https://www.trendyol.com/bambi---yeni-sezon/butikdetay/312994/ayakkabi--canta",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312994/srjlojlc_0_new.jpg",
+            "countdown": "6.05.2019 05:00:00",
+            "category": "Ayakkabı & Çanta"
+        }, {
+            "link": "https://www.trendyol.com/tonny-black---yeni-urunlerle/butikdetay/305561/ayakkabi--canta",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/305561/hhrw3w4j_0_new.jpg",
+            "countdown": false,
+            "category": "Ayakkabı & Çanta"
+        }, {
+            "link": "https://www.trendyol.com/ray-ban---vogue---emporio-armani---gunes-gozlugu-koleksiyonu/butikdetay/311973/saat--aksesuar",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/311973/tpla3ncd_0_new.jpg",
+            "countdown": false,
+            "category": "Saat & Aksesuar"
+        }, {
+            "link": "https://www.trendyol.com/saatte-aradiginiz-her-sey/butikdetay/310670/saat--aksesuar",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/310670/0lmdxvv2_0_new.jpg",
+            "countdown": false,
+            "category": "Saat & Aksesuar"
+        }, {
+            "link": "https://www.trendyol.com/saatini-sec/butikdetay/312636/saat--aksesuar",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312636/5ubdlao5_0_new.jpg",
+            "countdown": false,
+            "category": "Saat & Aksesuar"
+        }, {
+            "link": "https://www.trendyol.com/sogutlu-silver---aksesuar/butikdetay/308972/saat--aksesuar",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/308972/atxb1yq0_0_new.jpg",
+            "countdown": false,
+            "category": "Saat & Aksesuar"
+        }, {
+            "link": "https://www.trendyol.com/parfumde-buyuk-indirim/butikdetay/312069/kozmetik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312069/bv2knrcz_0_new.jpg",
+            "countdown": false,
+            "category": "Kozmetik"
+        }, {
+            "link": "https://www.trendyol.com/mayis-ayi-kozmetik-onerileri/butikdetay/311552/kozmetik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/311552/gudqkhpx_0_new.jpg",
+            "countdown": false,
+            "category": "Kozmetik"
+        }, {
+            "link": "https://www.trendyol.com/gunes-urunleri/butikdetay/313400/kozmetik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313400/y3b03s0j_0_new.jpg",
+            "countdown": false,
+            "category": "Kozmetik"
+        }, {
+            "link": "https://www.trendyol.com/avon/butikdetay/312046/kozmetik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312046/lqk5eo1q_0_new.jpg",
+            "countdown": false,
+            "category": "Kozmetik"
+        }, {
+            "link": "https://www.trendyol.com/madame-coco/butikdetay/313445/ev--yasam",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313445/2r0nn3k5_2_new.jpg",
+            "countdown": false,
+            "category": "Ev & Yaşam"
+        }, {
+            "link": "https://www.trendyol.com/haftanin-cok-satanlari---ev/butikdetay/313188/ev--yasam",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313188/4goptden_0_new.jpg",
+            "countdown": false,
+            "category": "Ev & Yaşam"
+        }, {
+            "link": "https://www.trendyol.com/nisan-ayinin-cok-satanlari---mobilya/butikdetay/312960/ev--yasam",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312960/lh51i1wz_0_new.jpg",
+            "countdown": false,
+            "category": "Ev & Yaşam"
+        }, {
+            "link": "https://www.trendyol.com/sezon-sonu-firsatlari---ev/butikdetay/313050/ev--yasam",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313050/tyjmx3yr_0_new.jpg",
+            "countdown": "6.05.2019 05:00:00",
+            "category": "Ev & Yaşam"
+        }, {
+            "link": "https://www.trendyol.com/cep-telefonlarinda-kacirilmayacak-firsatlar/butikdetay/311844/elektronik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/311844/ocrfuidn_0_new.jpg",
+            "countdown": false,
+            "category": "Elektronik"
+        }, {
+            "link": "https://www.trendyol.com/ayin-cok-satanlari---elektronik/butikdetay/313291/elektronik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/313291/0z5nkytd_0_new.jpg",
+            "countdown": "6.05.2019 18:00:00",
+            "category": "Elektronik"
+        }, {
+            "link": "https://www.trendyol.com/elektrikli-ev-aletleri--kisisel-bakim/butikdetay/310022/elektronik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/310022/qhtpmt4u_0_new.jpg",
+            "countdown": false,
+            "category": "Elektronik"
+        }, {
+            "link": "https://www.trendyol.com/elektrikli-ev-aletleri--kisisel-bakim/butikdetay/311739/elektronik",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/311739/vulxptzz_0_new.jpg",
+            "countdown": false,
+            "category": "Elektronik"
+        }, {
+            "link": "https://www.trendyol.com/kisisel-bakim-dunyasi/butikdetay/312875/supermarket",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/312875/vrokvrzd_0_new.jpg",
+            "countdown": false,
+            "category": "Süpermarket"
+        }, {
+            "link": "https://www.trendyol.com/evinizin-supermarket-ihtiyaclari/butikdetay/310995/supermarket",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/310995/basi1pyy_0_new.jpg",
+            "countdown": false,
+            "category": "Süpermarket"
+        }, {
+            "link": "https://www.trendyol.com/supermarkette-aradiginiz-her-sey/butikdetay/305936/supermarket",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/305936/5pvwsogm_0_new.jpg",
+            "countdown": false,
+            "category": "Süpermarket"
+        }, {
+            "link": "https://www.trendyol.com/pet-dunyasi/butikdetay/310605/supermarket",
+            "img": "https://img-trendyol.mncdn.com//Assets/ProductImages/OA/CampaignVisual/OriginalBoutiqueImages/310605/ijo1mdmi_0_new.jpg",
+            "countdown": false,
+            "category": "Süpermarket"
+        }
+    ],
+    "Categories": ["Kadın", "Erkek", "Çocuk", "Ayakkabı & Çanta", "Saat & Aksesuar", "Kozmetik", "Ev & Yaşam", "Elektronik", "Süpermarket"],
+    "Campaigns": ["Kampanya 1", "Kampanya 2"]
+}

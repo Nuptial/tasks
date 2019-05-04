@@ -1,0 +1,27 @@
+.shape-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #FAA419;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.line-1,
+.line-2 {
+    border: 1px solid white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.line-1 {
+    height: 100%;
+}
+
+.line-2 {
+    width: 100%;
+}
